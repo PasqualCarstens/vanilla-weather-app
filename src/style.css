@@ -7,7 +7,6 @@ h1 {
   font-size: 38px;
   font-weight: 700;
   line-height: 48px;
-  margin: 20px 0px 10px 0px;
 }
 
 ul {
@@ -25,6 +24,14 @@ li {
   margin-bottom: 5px;
 }
 
+img {
+  width: 110px;
+  margin: 0px;
+  position: relative;
+  right: -20px;
+  top: -15px;
+}
+
 footer {
   padding: 10px;
 }
@@ -40,4 +47,23 @@ a {
   padding: 20px;
   border: 1px solid #dfdfdf;
   border-radius: 10px;
+}
+
+.temperature {
+  color: #212121;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 80px;
+  margin-left: 10px;
+  display: inline;
+}
+
+.unit {
+  color: #212121;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 28px;
+  position: relative;
+  top: -34px;
+  display: inline;
 }
