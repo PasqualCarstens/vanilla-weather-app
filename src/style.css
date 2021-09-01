@@ -70,3 +70,9 @@ a {
   top: -34px;
   display: inline;
 }
+
+.weather-temperature,
+.active {
+  color: #212121;
+  cursor: default;
+}
