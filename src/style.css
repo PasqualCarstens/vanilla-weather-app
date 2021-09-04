@@ -64,10 +64,8 @@ a {
   display: inline;
 }
 
-.weather-temperature,
-.active {
+.weather-temperature {
   color: #212121;
-  cursor: default;
 }
 
 .weather-forecast {
